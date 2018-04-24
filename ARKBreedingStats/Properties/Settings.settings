@@ -1,0 +1,144 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ARKBreedingStats.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastSaveFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="consideredStats" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">51</Value>
+    </Setting>
+    <Setting Name="formSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">900, 700</Value>
+    </Setting>
+    <Setting Name="formLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">100, 100</Value>
+    </Setting>
+    <Setting Name="columnWidths" Type="System.Int32[]" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="autosave" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="autosaveMinutes" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="customStatWeights" Type="System.Double[][]" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="customStatWeightNames" Type="System.String[]" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="listViewSortCol" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="listViewSortAsc" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="lastUpdateCheck" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2000-01-01</Value>
+    </Setting>
+    <Setting Name="syncCollection" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="celsius" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="lastSpecies" Type="System.String[]" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="oxygenForAll" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="OCRApp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ShooterGame</Value>
+    </Setting>
+    <Setting Name="weaponDamages" Type="System.Double[]" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="soundStarving" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="soundWakeup" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="soundBirth" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SpeechRecognition" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="weaponDamagesEnabled" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">63</Value>
+    </Setting>
+    <Setting Name="OverlayInfoDuration" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="OCRWhiteThreshold" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">160</Value>
+    </Setting>
+    <Setting Name="ocrFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">json/ocr_1920x1080_100.json</Value>
+    </Setting>
+    <Setting Name="waitBeforeScreenCapture" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="sequentialUniqueNamePattern" Type="System.String" Scope="User">
+      <Value Profile="(Default)">{species} {sex_short}{n}</Value>
+    </Setting>
+    <Setting Name="soundCustom" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="playAlarmTimes" Type="System.String" Scope="User">
+      <Value Profile="(Default)">60,0</Value>
+    </Setting>
+    <Setting Name="inventoryCheckTimer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LastImportFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="showColorsInLibrary" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="arkSavegamePaths" Type="System.String[]" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="arkToolsPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="savegameExtractionPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="importChangeCreatureStatus" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MutationLimitBreedingPlanner" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="DevTools" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LastSaveFileTestCases" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExportCreatureFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IgnoreSexInBreedingPlan" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultOwnerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OwnerNameLocked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DefaultTribeName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TribeNameLocked" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
